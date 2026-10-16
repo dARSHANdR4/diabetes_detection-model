@@ -1,3 +1,15 @@
+## Live combined dashboard
+
+Try the combined Crop, Fertilizer, and Diabetes educational screening interface:
+**https://ai-prediction-studio.pages.dev/**
+
+API health status: https://ai-prediction-studio-api.onrender.com/health  
+API documentation: https://ai-prediction-studio-api.onrender.com/docs
+
+The live Diabetes module is an educational screening demonstration, not a diagnosis or a substitute for medical testing. A low-risk output cannot rule out diabetes.
+
+---
+
 # Diabetes Detection (SVM)
 
 An educational Support Vector Machine (SVM) example using the Pima Indians diabetes dataset.
